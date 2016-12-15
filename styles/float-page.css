@@ -10,3 +10,20 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.nebula1 {
+	float: left;
+	margin-right: 10px;
+	
+}
+
+.nebula2 {
+	float: right;
+	margin-left: 10px;
+
+}
+
+.nebula1, .nebula2 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
